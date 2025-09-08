@@ -1,6 +1,6 @@
 import React from 'react'
 import Subheader from '../Components/Subheader/Subheader'
-import Location from '../components/Location/Location'
+import Location from '../Components/Location/Location'
 import ContactComponent from '../Components/ContactComponent/ContactComponent'
 import Footer from '../Components/Footer/Footer'
 

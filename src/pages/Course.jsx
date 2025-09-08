@@ -1,6 +1,6 @@
 import Subheader from "../Components/Subheader/Subheader";
 import Courses from "../Components/Courses/Courses";
-import Facilities from "../components/Facilities/Facilities";
+import Facilities from "../Components/Facilities/Facilities";
 import Footer from "../Components/Footer/Footer";
 
 const Course = () => {
