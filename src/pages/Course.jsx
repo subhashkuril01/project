@@ -1,7 +1,7 @@
-import Subheader from "../components/Subheader/Subheader";
-import Courses from "../components/Courses/Courses";
+import Subheader from "../Components/Subheader/Subheader";
+import Courses from "../Components/Courses/Courses";
 import Facilities from "../components/Facilities/Facilities";
-import Footer from "../components/Footer/Footer";
+import Footer from "../Components/Footer/Footer";
 
 const Course = () => {
   return (
