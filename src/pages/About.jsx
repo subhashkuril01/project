@@ -1,6 +1,6 @@
 import React from 'react'
 import Subheader from '../Components/Subheader/Subheader'
-import AboutUsBox from '../Components/AboutUsBox/AboutUsbox'
+import AboutUsBox from '../Components/AboutUsBox/AboutUsBox'
 import Footer from '../Components/Footer/Footer'
 
 const About = () => {
