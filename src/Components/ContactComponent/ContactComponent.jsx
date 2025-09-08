@@ -1,5 +1,7 @@
 import React from "react";
 import './ContactComponent.css'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faHome, faPhone, faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 const ContactComponent = () => {
   return (
