@@ -4,7 +4,8 @@ import Home from "../pages/Home";
 import About from "../pages/About";
 import Blog from "../pages/Blog";
 import Contact from "../pages/Contact";
-import Course from "../pages/Course";   // 👈 FIXED here
+import Course from "../pages/Course";
+
 
 const AppRoutes = () => {
   return (
